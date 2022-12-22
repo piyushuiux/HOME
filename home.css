@@ -1,0 +1,124 @@
+body{
+    padding: 0px 100px;
+}
+h2{
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.nav{
+    display: inline-block;
+    margin-left: 45px;
+    color: black;
+}
+span{
+    margin-left: 153px;
+}
+.w{
+    width: 50%;
+    display: inline-block;
+    font-family: serif;
+    margin-top: 20px;
+}
+p{
+   
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+    color: rgb(132, 129, 129);
+    line-height: 2;
+}
+
+.rightblack{
+    height: 470px;
+    width: 321px;
+    background-color: black;
+    position: absolute;
+    margin:  -358px 0 0 902px;
+    padding: 40px;
+}
+.new{
+    color: rgb(232, 177, 81);
+    margin-top: 0px;
+}
+h4{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+}
+hr{
+   border-width: 1px 0 0 0;  
+}
+.future{
+    color: rgb(132, 129, 129);
+    margin-top: 37px;
+    padding-bottom: 0px;
+}
+.web3{
+    width: 50%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 20px;
+}
+h1{
+   font-size: xxx-large;
+   font-family: Arial, Helvetica, sans-serif;
+}
+.button{
+    background-color: rgb(232, 177, 81);
+    color: white;
+    text-align: center;
+    width: 200px;
+    height: 35px;
+    padding-top: 18px;
+    position: absolute;
+    margin: 130px 0 0 335px;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 5.5px;
+    font-size: small;   
+}
+.lowimg{
+    height: 150px;
+    width: 100px;
+    width: 30%;
+    text-align: left;
+    margin: auto;
+    float: left;
+}
+h6{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: large;
+    margin: 9px 0;
+}
+.low{
+    width: 27%;
+    text-align: left;
+    margin: 30px;
+    float: left;
+}
+.lowno{
+    color: rgba(203, 200, 200, 0.853);
+    margin: 0;
+}
+.lowp{
+    color: rgb(132, 129, 129);
+    margin: 0;
+}
+.im01{
+    margin: 0 20px 0 -25px;
+}
+.im02{
+    margin: 0 20px;
+}
+.im03{
+    margin: 0 20px 0 48px;
+}
+.low3{
+    margin-right: 0;
+    width: 30%;
+}
+.button2{
+    background-color: rgb(0, 0, 0);
+}
+.nav:hover{
+    color :rgb(232, 177, 81)
+}
